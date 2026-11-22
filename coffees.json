@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updated": "2026-11-21 16:12",
+ "updated": "2026-11-22 12:16",
  "coffees": [
   {
    "id": "buttercup",
@@ -11,8 +11,16 @@
    "name_ko": "버터컵",
    "acidity": 2,
    "color": "#F6E15E",
-   "notes": [],
-   "notes_ko": [],
+   "notes": [
+    "Orange",
+    "Cashew Nut",
+    "Brown Sugar"
+   ],
+   "notes_ko": [
+    "오렌지",
+    "Cashew Nut",
+    "흑설탕"
+   ],
    "label": "",
    "label_ko": "",
    "status": "online",
@@ -37,8 +45,16 @@
    "name_ko": "오로라 레드",
    "acidity": 3,
    "color": "#AB4439",
-   "notes": [],
-   "notes_ko": [],
+   "notes": [
+    "Black Cherry",
+    "Apple",
+    "Molasses"
+   ],
+   "notes_ko": [
+    "Black Cherry",
+    "사과",
+    "Molasses"
+   ],
    "label": "Best of Congo #2",
    "label_ko": "베스트 오브 콩고 #2",
    "status": "online",
@@ -63,8 +79,16 @@
    "name_ko": "번트 코랄",
    "acidity": 3,
    "color": "#DC8E82",
-   "notes": [],
-   "notes_ko": [],
+   "notes": [
+    "Red Berry",
+    "Cherry",
+    "Grape"
+   ],
+   "notes_ko": [
+    "Red Berry",
+    "체리",
+    "포도"
+   ],
    "label": "Swiss Water Decaf",
    "label_ko": "스위스 워터 디카페인",
    "status": "online",
@@ -117,11 +141,13 @@
    "color": "#5A5F39",
    "notes": [
     "Mandarin",
-    "Yellow Peach"
+    "Yellow Peach",
+    "Brown Sugar"
    ],
    "notes_ko": [
-    "만다린",
-    "황도"
+    "Mandarin",
+    "Yellow Peach",
+    "흑설탕"
    ],
    "label": "",
    "label_ko": "",
@@ -149,11 +175,13 @@
    "color": "#7C4381",
    "notes": [
     "Blueberry",
-    "Lavender"
+    "Lavender",
+    "Silky"
    ],
    "notes_ko": [
     "블루베리",
-    "라벤더"
+    "Lavender",
+    "Silky"
    ],
    "label": "",
    "label_ko": "",
@@ -179,8 +207,16 @@
    "name_ko": "그라니타",
    "acidity": 4,
    "color": "#944159",
-   "notes": [],
-   "notes_ko": [],
+   "notes": [
+    "Plum",
+    "Orange",
+    "Pineapple"
+   ],
+   "notes_ko": [
+    "자두",
+    "오렌지",
+    "파인애플"
+   ],
    "label": "",
    "label_ko": "",
    "status": "online",
@@ -211,9 +247,9 @@
     "Green Grape"
    ],
    "notes_ko": [
-    "아카시아",
+    "Acacia",
     "베르가못",
-    "청포도"
+    "Green Grape"
    ],
    "label": "",
    "label_ko": "",
@@ -241,11 +277,13 @@
    "color": "#715376",
    "notes": [
     "Lychee",
-    "Blueberry"
+    "Blueberry",
+    "Juicy"
    ],
    "notes_ko": [
-    "리치",
-    "블루베리"
+    "Lychee",
+    "블루베리",
+    "Juicy"
    ],
    "label": "Late Harvest",
    "label_ko": "레이트 하베스트",
@@ -271,8 +309,16 @@
    "name_ko": "탱고 레드",
    "acidity": 4,
    "color": "#A33844",
-   "notes": [],
-   "notes_ko": [],
+   "notes": [
+    "Grapefruit",
+    "Green Apple",
+    "Cane Sugar"
+   ],
+   "notes_ko": [
+    "자몽",
+    "Green Apple",
+    "Cane Sugar"
+   ],
    "label": "",
    "label_ko": "",
    "status": "online",
@@ -298,13 +344,13 @@
    "acidity": 5,
    "color": "#C84549",
    "notes": [
-    "Floral",
     "Hibiscus",
+    "Cranberry",
     "Apple"
    ],
    "notes_ko": [
-    "플로럴",
-    "히비스커스",
+    "Hibiscus",
+    "Cranberry",
     "사과"
    ],
    "label": "",
@@ -357,8 +403,16 @@
    "name_ko": "팬지",
    "acidity": 3,
    "color": "#5F3F78",
-   "notes": [],
-   "notes_ko": [],
+   "notes": [
+    "Peach",
+    "Apple",
+    "Apricot"
+   ],
+   "notes_ko": [
+    "복숭아",
+    "사과",
+    "살구"
+   ],
    "label": "Lot 244",
    "label_ko": "Lot 244",
    "status": "cafe",
@@ -380,16 +434,18 @@
    "section": "filter",
    "sort": 0,
    "name": "Peony",
-   "name_ko": "피오니",
+   "name_ko": "피어니",
    "acidity": 3,
    "color": "#E1A0A9",
    "notes": [
+    "Delicate",
     "Guava",
     "Papaya"
    ],
    "notes_ko": [
-    "구아바",
-    "파파야"
+    "Delicate",
+    "Guava",
+    "Papaya"
    ],
    "label": "",
    "label_ko": "",
@@ -418,16 +474,12 @@
    "notes": [
     "Orange Blossom",
     "White Peach",
-    "Apricot",
-    "Mandarin",
-    "Honey"
+    "Apricot"
    ],
    "notes_ko": [
-    "오렌지 블로썸",
-    "백도",
-    "살구",
-    "만다린",
-    "꿀"
+    "Orange Blossom",
+    "White Peach",
+    "살구"
    ],
    "label": "Lot 2",
    "label_ko": "Lot 2",
@@ -437,7 +489,7 @@
    "origin_ko": "온두라스",
    "region": "Las Delicias, Danli, El Paraíso",
    "farm": "El Laurel",
-   "producer": "",
+   "producer": "Daniel Ramirez",
    "altitude": "1,460m",
    "variety": "Prainema",
    "process": "Washed",
@@ -456,14 +508,12 @@
    "notes": [
     "Lavender",
     "Blueberry",
-    "Apricot",
-    "Peach"
+    "Apricot"
    ],
    "notes_ko": [
-    "라벤더",
+    "Lavender",
     "블루베리",
-    "살구",
-    "복숭아"
+    "살구"
    ],
    "label": "",
    "label_ko": "",
@@ -489,12 +539,20 @@
    "name_ko": "리아트리스",
    "acidity": 4,
    "color": "#9F6699",
-   "notes": [],
-   "notes_ko": [],
+   "notes": [
+    "Grape",
+    "Pineapple",
+    "Milk Chocolate"
+   ],
+   "notes_ko": [
+    "포도",
+    "파인애플",
+    "Milk Chocolate"
+   ],
    "label": "",
    "label_ko": "",
-   "status": "online",
-   "store_url": "https://smartstore.naver.com/liedown",
+   "status": "soldout",
+   "store_url": "",
    "origin": "Ethiopia",
    "origin_ko": "에티오피아",
    "region": "Sidama, Bensa",
@@ -516,17 +574,19 @@
    "acidity": 4,
    "color": "#C6DA5A",
    "notes": [
-    "Peach",
-    "Lemongrass"
+    "White Peach",
+    "Lemongrass",
+    "Dense"
    ],
    "notes_ko": [
-    "복숭아",
-    "레몬그라스"
+    "White Peach",
+    "Lemongrass",
+    "Dense"
    ],
    "label": "",
    "label_ko": "",
-   "status": "online",
-   "store_url": "https://smartstore.naver.com/liedown",
+   "status": "soldout",
+   "store_url": "",
    "origin": "Ethiopia",
    "origin_ko": "에티오피아",
    "region": "Sidama, Bensa, Alo",
@@ -537,6 +597,48 @@
    "process": "Hybrid Washed",
    "process_ko": "하이브리드 워시드",
    "harvest": "2026"
+  },
+  {
+   "id": "tache",
+   "kind": "blend",
+   "section": "espresso",
+   "sort": 0,
+   "name": "Tache",
+   "name_ko": "타쉬",
+   "acidity": 1,
+   "color": "#83390D",
+   "notes": [
+    "Molasses",
+    "Vanilla"
+   ],
+   "notes_ko": [
+    "당밀",
+    "바닐라"
+   ],
+   "label": "Dark Blend",
+   "label_ko": "다크 블렌드",
+   "status": "online",
+   "store_url": "https://smartstore.naver.com/liedown",
+   "components": [
+    {
+     "origin": "Guatemala",
+     "origin_ko": "과테말라",
+     "farm": "Cantinil",
+     "process": "Washed",
+     "process_ko": "워시드",
+     "ratio": 66.7
+    },
+    {
+     "origin": "Brazil",
+     "origin_ko": "브라질",
+     "farm": "Baba Blend",
+     "process": "Pulped Natural",
+     "process_ko": "펄프드내추럴",
+     "ratio": 33.3
+    }
+   ],
+   "image": "blends/tache.jpg",
+   "image_url": "https://raw.githubusercontent.com/Ethan5on/liedown-coffee-data/main/blends/tache.jpg"
   },
   {
    "id": "impasto",
@@ -633,48 +735,6 @@
    ],
    "image": "blends/fresco.jpg",
    "image_url": "https://raw.githubusercontent.com/Ethan5on/liedown-coffee-data/main/blends/fresco.jpg"
-  },
-  {
-   "id": "tache",
-   "kind": "blend",
-   "section": "espresso",
-   "sort": 0,
-   "name": "Tache",
-   "name_ko": "타쉬",
-   "acidity": null,
-   "color": "#83390D",
-   "notes": [
-    "Molasses",
-    "Vanilla"
-   ],
-   "notes_ko": [
-    "당밀",
-    "바닐라"
-   ],
-   "label": "Dark Blend",
-   "label_ko": "다크 블렌드",
-   "status": "online",
-   "store_url": "https://smartstore.naver.com/liedown",
-   "components": [
-    {
-     "origin": "Guatemala",
-     "origin_ko": "과테말라",
-     "farm": "Cantinil",
-     "process": "Washed",
-     "process_ko": "워시드",
-     "ratio": 66.7
-    },
-    {
-     "origin": "Brazil",
-     "origin_ko": "브라질",
-     "farm": "Baba Blend",
-     "process": "Pulped Natural",
-     "process_ko": "펄프드내추럴",
-     "ratio": 33.3
-    }
-   ],
-   "image": "blends/tache.jpg",
-   "image_url": "https://raw.githubusercontent.com/Ethan5on/liedown-coffee-data/main/blends/tache.jpg"
   },
   {
    "id": "fumage",
