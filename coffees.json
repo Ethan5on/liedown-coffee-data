@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updated": "2026-11-22 12:16",
+ "updated": "2026-11-22 12:45",
  "coffees": [
   {
    "id": "buttercup",
@@ -25,6 +25,13 @@
    "label_ko": "",
    "status": "online",
    "store_url": "https://smartstore.naver.com/liedown",
+   "scores": {
+    "acidity": 2,
+    "sweetness": 4,
+    "flavor": 3,
+    "body": 4,
+    "clean_cup": 4
+   },
    "origin": "El Salvador",
    "origin_ko": "엘살바도르",
    "region": "Santa Ana",
@@ -59,6 +66,13 @@
    "label_ko": "베스트 오브 콩고 #2",
    "status": "online",
    "store_url": "https://smartstore.naver.com/liedown",
+   "scores": {
+    "acidity": 3,
+    "sweetness": 4,
+    "flavor": 3,
+    "body": 4,
+    "clean_cup": 4
+   },
    "origin": "Congo",
    "origin_ko": "콩고",
    "region": "Sud-Kivu, Kalehe, Kiniezire",
@@ -93,6 +107,13 @@
    "label_ko": "스위스 워터 디카페인",
    "status": "online",
    "store_url": "https://smartstore.naver.com/liedown",
+   "scores": {
+    "acidity": 4,
+    "sweetness": 4,
+    "flavor": 4,
+    "body": 4,
+    "clean_cup": 4
+   },
    "origin": "Ethiopia",
    "origin_ko": "에티오피아",
    "region": "Guji, Oromia",
@@ -153,6 +174,13 @@
    "label_ko": "",
    "status": "online",
    "store_url": "https://smartstore.naver.com/liedown",
+   "scores": {
+    "acidity": 3,
+    "sweetness": 4,
+    "flavor": 3,
+    "body": 5,
+    "clean_cup": 3
+   },
    "origin": "Guatemala",
    "origin_ko": "과테말라",
    "region": "Antigua, San Miguel Dueñas",
@@ -187,6 +215,13 @@
    "label_ko": "",
    "status": "online",
    "store_url": "https://smartstore.naver.com/liedown",
+   "scores": {
+    "acidity": 4,
+    "sweetness": 4,
+    "flavor": 4,
+    "body": 4,
+    "clean_cup": 4
+   },
    "origin": "Costa Rica",
    "origin_ko": "코스타리카",
    "region": "Tarrazú, Leon Cortes",
@@ -221,6 +256,13 @@
    "label_ko": "",
    "status": "online",
    "store_url": "https://smartstore.naver.com/liedown",
+   "scores": {
+    "acidity": 4,
+    "sweetness": 5,
+    "flavor": 5,
+    "body": 4,
+    "clean_cup": 4
+   },
    "origin": "Ethiopia",
    "origin_ko": "에티오피아",
    "region": "Guji, Oromia",
@@ -255,6 +297,13 @@
    "label_ko": "",
    "status": "online",
    "store_url": "https://smartstore.naver.com/liedown",
+   "scores": {
+    "acidity": 4,
+    "sweetness": 4,
+    "flavor": 5,
+    "body": 3,
+    "clean_cup": 5
+   },
    "origin": "Ethiopia",
    "origin_ko": "에티오피아",
    "region": "Yirgacheffe, Gedeb, Chorso",
@@ -289,6 +338,13 @@
    "label_ko": "레이트 하베스트",
    "status": "online",
    "store_url": "https://smartstore.naver.com/liedown",
+   "scores": {
+    "acidity": 4,
+    "sweetness": 5,
+    "flavor": 4,
+    "body": 4,
+    "clean_cup": 4
+   },
    "origin": "Colombia",
    "origin_ko": "콜롬비아",
    "region": "Nariño",
@@ -323,6 +379,13 @@
    "label_ko": "",
    "status": "online",
    "store_url": "https://smartstore.naver.com/liedown",
+   "scores": {
+    "acidity": 4,
+    "sweetness": 4,
+    "flavor": 4,
+    "body": 4,
+    "clean_cup": 5
+   },
    "origin": "Kenya",
    "origin_ko": "케냐",
    "region": "Kirinyaga",
@@ -357,6 +420,13 @@
    "label_ko": "",
    "status": "online",
    "store_url": "https://smartstore.naver.com/liedown",
+   "scores": {
+    "acidity": 5,
+    "sweetness": 4,
+    "flavor": 4,
+    "body": 3,
+    "clean_cup": 5
+   },
    "origin": "Ethiopia",
    "origin_ko": "에티오피아",
    "region": "Nensebo, West Arsi, Oromia",
@@ -417,6 +487,13 @@
    "label_ko": "Lot 244",
    "status": "cafe",
    "store_url": "",
+   "scores": {
+    "acidity": 3,
+    "sweetness": 4,
+    "flavor": 4,
+    "body": 4,
+    "clean_cup": 4
+   },
    "origin": "El Salvador",
    "origin_ko": "엘살바도르",
    "region": "San Ignacio, Chalatenango",
@@ -451,6 +528,13 @@
    "label_ko": "",
    "status": "cafe",
    "store_url": "",
+   "scores": {
+    "acidity": 3,
+    "sweetness": 4,
+    "flavor": 3,
+    "body": 3,
+    "clean_cup": 5
+   },
    "origin": "Nicaragua",
    "origin_ko": "니카라과",
    "region": "El Suyatal, Macuelizo, Nueva Segovia",
@@ -485,6 +569,13 @@
    "label_ko": "Lot 2",
    "status": "cafe",
    "store_url": "",
+   "scores": {
+    "acidity": 3,
+    "sweetness": 4,
+    "flavor": 4,
+    "body": 4,
+    "clean_cup": 5
+   },
    "origin": "Honduras",
    "origin_ko": "온두라스",
    "region": "Las Delicias, Danli, El Paraíso",
@@ -519,6 +610,13 @@
    "label_ko": "",
    "status": "cafe",
    "store_url": "",
+   "scores": {
+    "acidity": 4,
+    "sweetness": 4,
+    "flavor": 5,
+    "body": 4,
+    "clean_cup": 4
+   },
    "origin": "Ethiopia",
    "origin_ko": "에티오피아",
    "region": "Sidama, Bensa",
@@ -553,6 +651,13 @@
    "label_ko": "",
    "status": "soldout",
    "store_url": "",
+   "scores": {
+    "acidity": 4,
+    "sweetness": 5,
+    "flavor": 5,
+    "body": 3,
+    "clean_cup": 4
+   },
    "origin": "Ethiopia",
    "origin_ko": "에티오피아",
    "region": "Sidama, Bensa",
@@ -587,6 +692,13 @@
    "label_ko": "",
    "status": "soldout",
    "store_url": "",
+   "scores": {
+    "acidity": 4,
+    "sweetness": 5,
+    "flavor": 5,
+    "body": 4,
+    "clean_cup": 5
+   },
    "origin": "Ethiopia",
    "origin_ko": "에티오피아",
    "region": "Sidama, Bensa, Alo",
