@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updated": "2026-11-22 21:43",
+ "updated": "2026-11-22 21:50",
  "coffees": [
   {
    "id": "buttercup",
@@ -24,7 +24,7 @@
    "label": "",
    "label_ko": "",
    "status": "online",
-   "store_url": "https://smartstore.naver.com/liedown",
+   "store_url": "https://smartstore.naver.com/liedown/products/7849490076",
    "photo_url": "https://raw.githubusercontent.com/Ethan5on/liedown-coffee-data/main/photos/buttercup.jpg?v=1795350629",
    "scores": {
     "acidity": 2,
@@ -66,7 +66,7 @@
    "label": "Best of Congo #2",
    "label_ko": "베스트 오브 콩고 #2",
    "status": "online",
-   "store_url": "https://smartstore.naver.com/liedown",
+   "store_url": "https://smartstore.naver.com/liedown/products/13237474458",
    "photo_url": "https://raw.githubusercontent.com/Ethan5on/liedown-coffee-data/main/photos/aurora-red.jpg?v=1795350658",
    "scores": {
     "acidity": 3,
@@ -108,7 +108,7 @@
    "label": "Swiss Water Decaf",
    "label_ko": "스위스 워터 디카페인",
    "status": "online",
-   "store_url": "https://smartstore.naver.com/liedown",
+   "store_url": "https://smartstore.naver.com/liedown/products/12968402850",
    "photo_url": "https://raw.githubusercontent.com/Ethan5on/liedown-coffee-data/main/photos/burnt-coral.jpg?v=1795350668",
    "scores": {
     "acidity": 4,
@@ -142,7 +142,7 @@
    "label": "",
    "label_ko": "",
    "status": "online",
-   "store_url": "https://smartstore.naver.com/liedown",
+   "store_url": "https://smartstore.naver.com/liedown/products/13665017469",
    "photo_url": "https://raw.githubusercontent.com/Ethan5on/liedown-coffee-data/main/photos/coral-haze.jpg?v=1795350695",
    "origin": "Papua New Guinea",
    "origin_ko": "파푸아뉴기니",
@@ -177,7 +177,7 @@
    "label": "",
    "label_ko": "",
    "status": "online",
-   "store_url": "https://smartstore.naver.com/liedown",
+   "store_url": "https://smartstore.naver.com/liedown/products/12186555170",
    "photo_url": "https://raw.githubusercontent.com/Ethan5on/liedown-coffee-data/main/photos/pesto.jpg?v=1795350735",
    "scores": {
     "acidity": 3,
@@ -219,7 +219,7 @@
    "label": "",
    "label_ko": "",
    "status": "online",
-   "store_url": "https://smartstore.naver.com/liedown",
+   "store_url": "https://smartstore.naver.com/liedown/products/7414328486",
    "photo_url": "https://raw.githubusercontent.com/Ethan5on/liedown-coffee-data/main/photos/dahlia.jpg?v=1795350829",
    "scores": {
     "acidity": 4,
@@ -261,7 +261,7 @@
    "label": "",
    "label_ko": "",
    "status": "online",
-   "store_url": "https://smartstore.naver.com/liedown",
+   "store_url": "https://smartstore.naver.com/liedown/products/13665004110",
    "photo_url": "https://raw.githubusercontent.com/Ethan5on/liedown-coffee-data/main/photos/granita.jpg?v=1795350849",
    "scores": {
     "acidity": 4,
@@ -303,7 +303,7 @@
    "label": "",
    "label_ko": "",
    "status": "online",
-   "store_url": "https://smartstore.naver.com/liedown",
+   "store_url": "https://smartstore.naver.com/liedown/products/13812135115",
    "photo_url": "https://raw.githubusercontent.com/Ethan5on/liedown-coffee-data/main/photos/green-flash.jpg?v=1795350862",
    "scores": {
     "acidity": 4,
@@ -345,7 +345,7 @@
    "label": "Late Harvest",
    "label_ko": "레이트 하베스트",
    "status": "online",
-   "store_url": "https://smartstore.naver.com/liedown",
+   "store_url": "https://smartstore.naver.com/liedown/products/13237466910",
    "photo_url": "https://raw.githubusercontent.com/Ethan5on/liedown-coffee-data/main/photos/sunset-purple.jpg?v=1795350899",
    "scores": {
     "acidity": 4,
@@ -387,7 +387,7 @@
    "label": "",
    "label_ko": "",
    "status": "online",
-   "store_url": "https://smartstore.naver.com/liedown",
+   "store_url": "https://smartstore.naver.com/liedown/products/13621469938",
    "photo_url": "https://raw.githubusercontent.com/Ethan5on/liedown-coffee-data/main/photos/tango-red.jpg?v=1795350921",
    "scores": {
     "acidity": 4,
@@ -429,7 +429,7 @@
    "label": "",
    "label_ko": "",
    "status": "online",
-   "store_url": "https://smartstore.naver.com/liedown",
+   "store_url": "https://smartstore.naver.com/liedown/products/11904442124",
    "photo_url": "https://raw.githubusercontent.com/Ethan5on/liedown-coffee-data/main/photos/bittersweet.jpg?v=1795350934",
    "scores": {
     "acidity": 5,
