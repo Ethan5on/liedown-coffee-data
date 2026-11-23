@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updated": "2026-11-22 21:50",
+ "updated": "2026-11-23 12:46",
  "coffees": [
   {
    "id": "buttercup",
@@ -458,13 +458,28 @@
    "name_ko": "엠버글로우",
    "acidity": 3,
    "color": "#D96F5F",
-   "notes": [],
-   "notes_ko": [],
+   "notes": [
+    "Pineapple",
+    "Cherry",
+    "Floral"
+   ],
+   "notes_ko": [
+    "파인애플",
+    "체리",
+    "플로럴"
+   ],
    "label": "",
    "label_ko": "",
    "status": "cafe",
    "store_url": "",
    "photo_url": "https://raw.githubusercontent.com/Ethan5on/liedown-coffee-data/main/photos/emberglow.jpg?v=1795350711",
+   "scores": {
+    "acidity": 3,
+    "sweetness": 4,
+    "flavor": 4,
+    "body": 5,
+    "clean_cup": 3
+   },
    "origin": "Rwanda",
    "origin_ko": "르완다",
    "region": "Nyaruguru",
