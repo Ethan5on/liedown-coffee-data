@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updated": "2026-11-23 12:46",
+ "updated": "2026-11-23 12:56",
  "coffees": [
   {
    "id": "buttercup",
@@ -640,7 +640,7 @@
    "label_ko": "",
    "status": "cafe",
    "store_url": "",
-   "photo_url": "https://raw.githubusercontent.com/Ethan5on/liedown-coffee-data/main/photos/lavender-haze.jpg?v=1795350874",
+   "photo_url": "https://raw.githubusercontent.com/Ethan5on/liedown-coffee-data/main/photos/lavender-haze.jpg?v=1795406209",
    "scores": {
     "acidity": 4,
     "sweetness": 4,
