@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updated": "2026-11-23 12:56",
+ "updated": "2026-11-23 13:42",
  "coffees": [
   {
    "id": "buttercup",
@@ -777,16 +777,14 @@
      "origin_ko": "과테말라",
      "farm": "Cantinil",
      "process": "Washed",
-     "process_ko": "워시드",
-     "ratio": 66.7
+     "process_ko": "워시드"
     },
     {
      "origin": "Brazil",
      "origin_ko": "브라질",
      "farm": "Baba Blend",
      "process": "Pulped Natural",
-     "process_ko": "펄프드내추럴",
-     "ratio": 33.3
+     "process_ko": "펄프드내추럴"
     }
    ],
    "image": "blends/tache.jpg",
@@ -814,7 +812,7 @@
    "label": "Balance Blend",
    "label_ko": "밸런스 블렌드",
    "status": "online",
-   "store_url": "https://smartstore.naver.com/liedown",
+   "store_url": "https://smartstore.naver.com/liedown/products/10542289916",
    "scores": {
     "acidity": 2,
     "sweetness": 5,
@@ -828,24 +826,21 @@
      "origin_ko": "코스타리카",
      "farm": "Helsar de Zarcero",
      "process": "White Honey",
-     "process_ko": "화이트 허니",
-     "ratio": 41.7
+     "process_ko": "화이트 허니"
     },
     {
      "origin": "Ethiopia",
      "origin_ko": "에티오피아",
      "farm": "Kossa",
      "process": "Natural",
-     "process_ko": "내추럴",
-     "ratio": 33.3
+     "process_ko": "내추럴"
     },
     {
      "origin": "India",
      "origin_ko": "인도",
      "farm": "Gangagiri",
      "process": "Washed",
-     "process_ko": "워시드",
-     "ratio": 25.0
+     "process_ko": "워시드"
     }
    ],
    "image": "blends/impasto.jpg",
@@ -873,7 +868,7 @@
    "label": "Bright Blend",
    "label_ko": "브라이트 블렌드",
    "status": "online",
-   "store_url": "https://smartstore.naver.com/liedown",
+   "store_url": "https://smartstore.naver.com/liedown/products/10545304588",
    "scores": {
     "acidity": 4,
     "sweetness": 4,
@@ -887,16 +882,14 @@
      "origin_ko": "에티오피아",
      "farm": "Suntu",
      "process": "Natural",
-     "process_ko": "내추럴",
-     "ratio": 66.7
+     "process_ko": "내추럴"
     },
     {
      "origin": "Rwanda",
      "origin_ko": "르완다",
      "farm": "Mugina",
      "process": "Washed",
-     "process_ko": "워시드",
-     "ratio": 33.3
+     "process_ko": "워시드"
     }
    ],
    "image": "blends/fresco.jpg",
@@ -911,13 +904,28 @@
    "name_ko": "퓨마쥬",
    "acidity": 1,
    "color": "#27221F",
-   "notes": [],
-   "notes_ko": [],
+   "notes": [
+    "Pumpkin Candy",
+    "Dark Chocolate",
+    "Juicy"
+   ],
+   "notes_ko": [
+    "Pumpkin Candy",
+    "다크초콜릿",
+    "Juicy"
+   ],
    "label": "EA Decaf",
    "label_ko": "EA 디카페인",
    "status": "cafe",
    "store_url": "",
    "photo_url": "https://raw.githubusercontent.com/Ethan5on/liedown-coffee-data/main/photos/fumage.jpg?v=1795351398",
+   "scores": {
+    "acidity": 1,
+    "sweetness": 5,
+    "flavor": 2,
+    "body": 5,
+    "clean_cup": 3
+   },
    "origin": "Colombia",
    "origin_ko": "콜롬비아",
    "region": "Huila",
