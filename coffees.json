@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updated": "2026-11-23 13:42",
+ "updated": "2026-11-25 08:54",
  "coffees": [
   {
    "id": "buttercup",
@@ -137,13 +137,28 @@
    "name_ko": "코랄 헤이즈",
    "acidity": 3,
    "color": "#D79686",
-   "notes": [],
-   "notes_ko": [],
+   "notes": [
+    "Apricot",
+    "Tropical Fruit",
+    "Soft"
+   ],
+   "notes_ko": [
+    "살구",
+    "열대과일",
+    "Soft"
+   ],
    "label": "",
    "label_ko": "",
    "status": "online",
    "store_url": "https://smartstore.naver.com/liedown/products/13665017469",
    "photo_url": "https://raw.githubusercontent.com/Ethan5on/liedown-coffee-data/main/photos/coral-haze.jpg?v=1795350695",
+   "scores": {
+    "acidity": 3,
+    "sweetness": 4,
+    "flavor": 4,
+    "body": 3,
+    "clean_cup": 4
+   },
    "origin": "Papua New Guinea",
    "origin_ko": "파푸아뉴기니",
    "region": "Eastern Highlands",
