@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updated": "2026-11-25 08:54",
+ "updated": "2026-11-25 11:00",
  "coffees": [
   {
    "id": "buttercup",
@@ -84,48 +84,6 @@
    "variety": "Bourbon",
    "process": "Washed",
    "process_ko": "워시드",
-   "harvest": "2026"
-  },
-  {
-   "id": "burnt-coral",
-   "kind": "bean",
-   "section": "filter",
-   "sort": 0,
-   "name": "Burnt Coral",
-   "name_ko": "번트 코랄",
-   "acidity": 3,
-   "color": "#DC8E82",
-   "notes": [
-    "Red Berry",
-    "Cherry",
-    "Grape"
-   ],
-   "notes_ko": [
-    "Red Berry",
-    "체리",
-    "포도"
-   ],
-   "label": "Swiss Water Decaf",
-   "label_ko": "스위스 워터 디카페인",
-   "status": "online",
-   "store_url": "https://smartstore.naver.com/liedown/products/12968402850",
-   "photo_url": "https://raw.githubusercontent.com/Ethan5on/liedown-coffee-data/main/photos/burnt-coral.jpg?v=1795350668",
-   "scores": {
-    "acidity": 4,
-    "sweetness": 4,
-    "flavor": 4,
-    "body": 4,
-    "clean_cup": 4
-   },
-   "origin": "Ethiopia",
-   "origin_ko": "에티오피아",
-   "region": "Guji, Oromia",
-   "farm": "Siko",
-   "producer": "",
-   "altitude": "",
-   "variety": "Kurume, Dega",
-   "process": "Natural Swiss Water Decaf",
-   "process_ko": "내추럴 스위스 워터 디카페인",
    "harvest": "2026"
   },
   {
@@ -297,48 +255,6 @@
    "harvest": "2026"
   },
   {
-   "id": "green-flash",
-   "kind": "bean",
-   "section": "filter",
-   "sort": 0,
-   "name": "Green Flash",
-   "name_ko": "그린 플래쉬",
-   "acidity": 4,
-   "color": "#8AC562",
-   "notes": [
-    "Acacia",
-    "Bergamot",
-    "Green Grape"
-   ],
-   "notes_ko": [
-    "Acacia",
-    "베르가못",
-    "Green Grape"
-   ],
-   "label": "",
-   "label_ko": "",
-   "status": "online",
-   "store_url": "https://smartstore.naver.com/liedown/products/13812135115",
-   "photo_url": "https://raw.githubusercontent.com/Ethan5on/liedown-coffee-data/main/photos/green-flash.jpg?v=1795350862",
-   "scores": {
-    "acidity": 4,
-    "sweetness": 4,
-    "flavor": 5,
-    "body": 3,
-    "clean_cup": 5
-   },
-   "origin": "Ethiopia",
-   "origin_ko": "에티오피아",
-   "region": "Yirgacheffe, Gedeb, Chorso",
-   "farm": "Chorso",
-   "producer": "Berhan PLC",
-   "altitude": "2,220m",
-   "variety": "74110, Kurume",
-   "process": "Washed",
-   "process_ko": "워시드",
-   "harvest": "2026"
-  },
-  {
    "id": "sunset-purple",
    "kind": "bean",
    "section": "filter",
@@ -465,6 +381,90 @@
    "harvest": "2026"
   },
   {
+   "id": "green-flash",
+   "kind": "bean",
+   "section": "filter",
+   "sort": 4,
+   "name": "Green Flash",
+   "name_ko": "그린 플래쉬",
+   "acidity": 4,
+   "color": "#8AC562",
+   "notes": [
+    "Acacia",
+    "Bergamot",
+    "Green Grape"
+   ],
+   "notes_ko": [
+    "Acacia",
+    "베르가못",
+    "Green Grape"
+   ],
+   "label": "",
+   "label_ko": "",
+   "status": "online",
+   "store_url": "https://smartstore.naver.com/liedown/products/13812135115",
+   "photo_url": "https://raw.githubusercontent.com/Ethan5on/liedown-coffee-data/main/photos/green-flash.jpg?v=1795350862",
+   "scores": {
+    "acidity": 4,
+    "sweetness": 4,
+    "flavor": 5,
+    "body": 3,
+    "clean_cup": 5
+   },
+   "origin": "Ethiopia",
+   "origin_ko": "에티오피아",
+   "region": "Yirgacheffe, Gedeb, Chorso",
+   "farm": "Chorso",
+   "producer": "Berhan PLC",
+   "altitude": "2,220m",
+   "variety": "74110, Kurume",
+   "process": "Washed",
+   "process_ko": "워시드",
+   "harvest": "2026"
+  },
+  {
+   "id": "burnt-coral",
+   "kind": "bean",
+   "section": "filter",
+   "sort": 6,
+   "name": "Burnt Coral",
+   "name_ko": "번트 코랄",
+   "acidity": 3,
+   "color": "#DC8E82",
+   "notes": [
+    "Red Berry",
+    "Cherry",
+    "Grape"
+   ],
+   "notes_ko": [
+    "Red Berry",
+    "체리",
+    "포도"
+   ],
+   "label": "Swiss Water Decaf",
+   "label_ko": "스위스 워터 디카페인",
+   "status": "online",
+   "store_url": "https://smartstore.naver.com/liedown/products/12968402850",
+   "photo_url": "https://raw.githubusercontent.com/Ethan5on/liedown-coffee-data/main/photos/burnt-coral.jpg?v=1795350668",
+   "scores": {
+    "acidity": 4,
+    "sweetness": 4,
+    "flavor": 4,
+    "body": 4,
+    "clean_cup": 4
+   },
+   "origin": "Ethiopia",
+   "origin_ko": "에티오피아",
+   "region": "Guji, Oromia",
+   "farm": "Siko",
+   "producer": "",
+   "altitude": "",
+   "variety": "Kurume, Dega",
+   "process": "Natural Swiss Water Decaf",
+   "process_ko": "내추럴 스위스 워터 디카페인",
+   "harvest": "2026"
+  },
+  {
    "id": "emberglow",
    "kind": "bean",
    "section": "filter",
@@ -507,94 +507,10 @@
    "harvest": "2026"
   },
   {
-   "id": "pansy",
-   "kind": "bean",
-   "section": "filter",
-   "sort": 0,
-   "name": "Pansy",
-   "name_ko": "팬지",
-   "acidity": 3,
-   "color": "#5F3F78",
-   "notes": [
-    "Peach",
-    "Apple",
-    "Apricot"
-   ],
-   "notes_ko": [
-    "복숭아",
-    "사과",
-    "살구"
-   ],
-   "label": "Lot 244",
-   "label_ko": "Lot 244",
-   "status": "cafe",
-   "store_url": "",
-   "photo_url": "https://raw.githubusercontent.com/Ethan5on/liedown-coffee-data/main/photos/pansy.jpg?v=1795351263",
-   "scores": {
-    "acidity": 3,
-    "sweetness": 4,
-    "flavor": 4,
-    "body": 4,
-    "clean_cup": 4
-   },
-   "origin": "El Salvador",
-   "origin_ko": "엘살바도르",
-   "region": "San Ignacio, Chalatenango",
-   "farm": "Santa Rosa",
-   "producer": "Jorge Raul Rivera",
-   "altitude": "1,700m",
-   "variety": "Pacamara",
-   "process": "Honey",
-   "process_ko": "허니",
-   "harvest": "2026"
-  },
-  {
-   "id": "peony",
-   "kind": "bean",
-   "section": "filter",
-   "sort": 0,
-   "name": "Peony",
-   "name_ko": "피어니",
-   "acidity": 3,
-   "color": "#E1A0A9",
-   "notes": [
-    "Delicate",
-    "Guava",
-    "Papaya"
-   ],
-   "notes_ko": [
-    "Delicate",
-    "Guava",
-    "Papaya"
-   ],
-   "label": "",
-   "label_ko": "",
-   "status": "cafe",
-   "store_url": "",
-   "photo_url": "https://raw.githubusercontent.com/Ethan5on/liedown-coffee-data/main/photos/peony.jpg?v=1795351270",
-   "scores": {
-    "acidity": 3,
-    "sweetness": 4,
-    "flavor": 3,
-    "body": 3,
-    "clean_cup": 5
-   },
-   "origin": "Nicaragua",
-   "origin_ko": "니카라과",
-   "region": "El Suyatal, Macuelizo, Nueva Segovia",
-   "farm": "Bethania",
-   "producer": "Ana Maria Albir Sotomayor",
-   "altitude": "1,300–1,500m",
-   "variety": "Java",
-   "process": "Natural",
-   "process_ko": "내추럴",
-   "harvest": "2026"
-  },
-  {
    "id": "primrose",
    "kind": "bean",
    "section": "filter",
-   "sort": 0,
+   "sort": 1,
    "name": "Primrose",
    "name_ko": "프림로즈",
    "acidity": 3,
@@ -633,10 +549,94 @@
    "harvest": "2026"
   },
   {
+   "id": "peony",
+   "kind": "bean",
+   "section": "filter",
+   "sort": 2,
+   "name": "Peony",
+   "name_ko": "피어니",
+   "acidity": 3,
+   "color": "#E1A0A9",
+   "notes": [
+    "Delicate",
+    "Guava",
+    "Papaya"
+   ],
+   "notes_ko": [
+    "Delicate",
+    "Guava",
+    "Papaya"
+   ],
+   "label": "",
+   "label_ko": "",
+   "status": "cafe",
+   "store_url": "",
+   "photo_url": "https://raw.githubusercontent.com/Ethan5on/liedown-coffee-data/main/photos/peony.jpg?v=1795351270",
+   "scores": {
+    "acidity": 3,
+    "sweetness": 4,
+    "flavor": 3,
+    "body": 3,
+    "clean_cup": 5
+   },
+   "origin": "Nicaragua",
+   "origin_ko": "니카라과",
+   "region": "El Suyatal, Macuelizo, Nueva Segovia",
+   "farm": "Bethania",
+   "producer": "Ana Maria Albir Sotomayor",
+   "altitude": "1,300–1,500m",
+   "variety": "Java",
+   "process": "Natural",
+   "process_ko": "내추럴",
+   "harvest": "2026"
+  },
+  {
+   "id": "pansy",
+   "kind": "bean",
+   "section": "filter",
+   "sort": 3,
+   "name": "Pansy",
+   "name_ko": "팬지",
+   "acidity": 3,
+   "color": "#5F3F78",
+   "notes": [
+    "Peach",
+    "Apple",
+    "Apricot"
+   ],
+   "notes_ko": [
+    "복숭아",
+    "사과",
+    "살구"
+   ],
+   "label": "Lot 244",
+   "label_ko": "Lot 244",
+   "status": "cafe",
+   "store_url": "",
+   "photo_url": "https://raw.githubusercontent.com/Ethan5on/liedown-coffee-data/main/photos/pansy.jpg?v=1795351263",
+   "scores": {
+    "acidity": 3,
+    "sweetness": 4,
+    "flavor": 4,
+    "body": 4,
+    "clean_cup": 4
+   },
+   "origin": "El Salvador",
+   "origin_ko": "엘살바도르",
+   "region": "San Ignacio, Chalatenango",
+   "farm": "Santa Rosa",
+   "producer": "Jorge Raul Rivera",
+   "altitude": "1,700m",
+   "variety": "Pacamara",
+   "process": "Honey",
+   "process_ko": "허니",
+   "harvest": "2026"
+  },
+  {
    "id": "lavender-haze",
    "kind": "bean",
    "section": "filter",
-   "sort": 0,
+   "sort": 5,
    "name": "Lavender Haze",
    "name_ko": "라벤더 헤이즈",
    "acidity": 4,
@@ -809,7 +809,7 @@
    "id": "impasto",
    "kind": "blend",
    "section": "espresso",
-   "sort": 0,
+   "sort": 1,
    "name": "Impasto",
    "name_ko": "임패스토",
    "acidity": 2,
@@ -865,7 +865,7 @@
    "id": "fresco",
    "kind": "blend",
    "section": "espresso",
-   "sort": 0,
+   "sort": 2,
    "name": "Fresco",
    "name_ko": "프레스코",
    "acidity": 4,
