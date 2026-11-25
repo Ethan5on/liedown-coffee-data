@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updated": "2026-11-25 11:00",
+ "updated": "2026-11-25 11:30",
  "coffees": [
   {
    "id": "buttercup",
@@ -485,7 +485,7 @@
    ],
    "label": "",
    "label_ko": "",
-   "status": "cafe",
+   "status": "comingsoon",
    "store_url": "",
    "photo_url": "https://raw.githubusercontent.com/Ethan5on/liedown-coffee-data/main/photos/emberglow.jpg?v=1795350711",
    "scores": {
@@ -527,7 +527,7 @@
    ],
    "label": "Lot 2",
    "label_ko": "Lot 2",
-   "status": "cafe",
+   "status": "comingsoon",
    "store_url": "",
    "photo_url": "https://raw.githubusercontent.com/Ethan5on/liedown-coffee-data/main/photos/primrose.jpg?v=1795351278",
    "scores": {
@@ -569,7 +569,7 @@
    ],
    "label": "",
    "label_ko": "",
-   "status": "cafe",
+   "status": "comingsoon",
    "store_url": "",
    "photo_url": "https://raw.githubusercontent.com/Ethan5on/liedown-coffee-data/main/photos/peony.jpg?v=1795351270",
    "scores": {
@@ -611,7 +611,7 @@
    ],
    "label": "Lot 244",
    "label_ko": "Lot 244",
-   "status": "cafe",
+   "status": "comingsoon",
    "store_url": "",
    "photo_url": "https://raw.githubusercontent.com/Ethan5on/liedown-coffee-data/main/photos/pansy.jpg?v=1795351263",
    "scores": {
@@ -653,7 +653,7 @@
    ],
    "label": "",
    "label_ko": "",
-   "status": "cafe",
+   "status": "comingsoon",
    "store_url": "",
    "photo_url": "https://raw.githubusercontent.com/Ethan5on/liedown-coffee-data/main/photos/lavender-haze.jpg?v=1795406209",
    "scores": {
